@@ -1,4 +1,3 @@
-![Banner Image](https://i.pinimg.com/564x/36/ac/12/36ac128644a779493ab233179a128e93.jpg)
 # 💫 About Me:
 👋 Hi there! I’m Cypher.<br>🧑‍💻 I’m a data science student currently studying at university.<br>📊 I’m passionate about diving into data and uncovering hidden insights.<br>🔍 I love solving complex problems and learning new things.<br>🚀 When I’m not buried in data, I explore the latest tech trends.<br>🤖 I also enjoy tinkering with cool projects.<br>🌍 Your support helps fuel my journey in the fascinating world of data science.<br>💖 Thanks for stopping by and for your support!
 
