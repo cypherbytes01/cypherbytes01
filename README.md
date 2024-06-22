@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypherbytes01&label=Profile%20views&color=0e75b6&style=flat" alt="cypherbytes01" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on **🤔**
 
 - 🌱 I’m currently learning **Data Science**
@@ -11,15 +13,15 @@
 
 - 🤝 I’m looking for help with **🤔**
 
-- 👨‍💻 All of my projects are available at [😐](😐)
+- 👨‍💻 All of my projects are available at **🤔**
 
-- 📝 I regularly write articles on [🤔](🤔)
+- 📝 I regularly write articles on **🤔**
 
 - 💬 Ask me about **Data**
 
 - 📫 How to reach me **🤔**
 
-- 📄 Know about my experiences [🤔](🤔)
+- 📄 Know about my experiences **🤔**
 
 - ⚡ Fun fact **I think ereryone data is save💀**
 
@@ -38,6 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypherbytes01&show_icons=true&locale=en" alt="cypherbytes01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypherbytes01&" alt="cypherbytes01" /></p>
-
-
 
