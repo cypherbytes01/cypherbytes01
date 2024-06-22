@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Banner Image](https://in.pinterest.com/pin/5066618328907640/)
 # 💫 About Me:
 👋 Hi there! I’m Cypher.<br>🧑‍💻 I’m a data science student currently studying at university.<br>📊 I’m passionate about diving into data and uncovering hidden insights.<br>🔍 I love solving complex problems and learning new things.<br>🚀 When I’m not buried in data, I explore the latest tech trends.<br>🤖 I also enjoy tinkering with cool projects.<br>🌍 Your support helps fuel my journey in the fascinating world of data science.<br>💖 Thanks for stopping by and for your support!
 
