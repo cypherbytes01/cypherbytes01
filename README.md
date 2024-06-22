@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Cypher</h1>
 <h3 align="center">A passionate frontend dev👋 Hi, I'm Cypher! I'm a data science student currently studying at university, delving into fields like Large Language Models (LLM), Machine Learning (ML), Big Data, Statistics, Mathematics, and programming languages such as Python and R. Passionate about solving complex problems and uncovering insights from data, I'm always eager to learn and explore new technologies.eloper from India</h3>
 
