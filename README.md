@@ -26,7 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=cypherbytes01&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cypherbytes01) 
-
+ <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#f57f0a', 'S6S5ZMOA2');kofiwidget2.draw();</script> 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
