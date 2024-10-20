@@ -1,26 +1,30 @@
-# 💫 About Me:
-👋 Hi there! I’m Cypher.<br>🧑‍💻 I’m a data science student currently studying at university.<br>📊 I’m passionate about diving into data and uncovering hidden insights.<br>🔍 I love solving complex problems and learning new things.<br>🚀 When I’m not buried in data, I explore the latest tech trends.<br>🤖 I also enjoy tinkering with cool projects.<br>🌍 Your support helps fuel my journey in the fascinating world of data science.<br>💖 Thanks for stopping by and for your support!
+<h2 align="left">Hi 👋! My name is Cypher and I'm a data science student currently studying at university.</h2>
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@cypherbytes01) 
+###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cypherbytes01&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cypherbytes01&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbytes01&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br clear="both">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBrbHkzMncxYzcwYjJyZG0yNml6YzQwN3pjbGEwdzlsd3o3eWo5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72F7RrTPW6jymXew/giphy.gif"  />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cypherbytes01&limit=5&theme=default&combine_all_yearly_contributions=true)
+###
 
-### 😂 Random Dev Meme
-<img src='https://www.codewithfaraz.com/blog_img/Programmers%20while%20Sleeping.jpg' style="height: 400px;"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=cypherbytes01&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-  ## 💰 You can help me by Donating
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5ZMOA2)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</div>
+
+###
