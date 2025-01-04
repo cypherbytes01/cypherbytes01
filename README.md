@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Did you know? The term "data science" was first coined in 1962 by John Tukey, a mathematician who predicted the merging of statistics and computer science. He was way ahead of his time—today, data science is one of the fastest-growing fields!**
 
-### Blogs posts
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
