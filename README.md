@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **🌏**
 
-- 👨‍💻 All of my projects are available at [🤔](🤔)
+- 👨‍💻 All of my projects are available at **🤔**
 
 - 💬 Ask me about **If you want to chat or ask questions, feel free to reach out. I'm always open to discuss**
 
