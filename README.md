@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **If you want to chat or ask questions, feel free to reach out. I'm always open to discuss**
 
-- 📫 How to reach me **onlyfans 😂**
+- 📫 How to reach me **Earth 😂**
 
 - ⚡ Fun fact **Did you know? The term "data science" was first coined in 1962 by John Tukey, a mathematician who predicted the merging of statistics and computer science. He was way ahead of his time—today, data science is one of the fastest-growing fields!**
 
