@@ -29,8 +29,7 @@
 <p align="left">
 <a href="https://dev.to/cypherbytes01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cypherbytes01" height="30" width="40" /></a>
 <a href="https://twitter.com/cypherbytes01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cypherbytes01" height="30" width="40" /></a>
-
-# <a href="https://www.leetcode.com/cypherbytes01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cypherbytes01" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/cypherbytes01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cypherbytes01" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypherbytes01&show_icons=true&locale=en" alt="cypherbytes01" /></p>
